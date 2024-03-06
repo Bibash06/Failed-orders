@@ -1,7 +1,7 @@
 # Failed-orders
 Assignment
 
-Please complete the following tasks.
+Tasks.
 
 * Build up distribution of orders according to reasons for failure: cancellations before and after driver assignment, and reasons for order rejection. Analyse the resulting plot. Which category has the highest number of orders?
 * Plot the distribution of failed orders by hours. Is there a trend that certain hours have an abnormally high proportion of one category or another? What hours are the biggest fails? How can this be explained?
